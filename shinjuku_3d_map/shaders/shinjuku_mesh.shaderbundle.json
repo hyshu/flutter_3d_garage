@@ -1,0 +1,10 @@
+{
+  "ShinjukuMeshVertex": {
+    "type": "vertex",
+    "file": "shinjuku_mesh.vert"
+  },
+  "ShinjukuMeshFragment": {
+    "type": "fragment",
+    "file": "shinjuku_mesh.frag"
+  }
+}
